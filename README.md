@@ -1,6 +1,6 @@
 # Chat Application
 - This is a chat application where you can chat with people and share images
-- You have to login one time before being albe to access the chat.
+- You have to login one time before being able to access the chat.
 - Example log-in details:
  ```
  Username: germany
